@@ -4,3 +4,4 @@ Practice how to read bmp and raw file with python filestream, and get familiar w
 ## Usage 
 1. open cmd
 2. type 'python read_pic.py'
+3. get the result of images transformation in data folder
